@@ -95,7 +95,7 @@ navAnchorSix.textContent = 'Content';
 // const document = document.querySelector('container')
 
 
-// CTA
+// CTA anything
 
 const tester = document.querySelector('.cta')
 tester.style.backgroundColor = 'dodgerblue'
@@ -108,7 +108,7 @@ tester.style.backgroundColor = 'dodgerblue'
 // const top = document.querySelector(cta)
 
 
-// headline
+// headline change
 const headline = document.querySelector('h1');
 headline.setAttribute('style', 'white-space: pre;');
 headline.textContent = 'Dom \r\n Is \r\n Awesome'
